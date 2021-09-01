@@ -12,6 +12,6 @@ pip install -r requirements.txt
 ### Running the app
 
 ```bash
-python app.py
+python CRUD.py {name}
 ```
 
