@@ -1,6 +1,6 @@
 # AUTOMATIC CRUD Generation
 
-This is a python file to create a new file with Flask_restful CRUD operations.
+This is a python file to create a new file with Flask_restful with SQLAlchemy CRUD operations.
 
 
 ## Installation of Requirments
@@ -15,7 +15,7 @@ pip install -r requirements.txt
 python CRUD.py {name}
 ```
 
-### This is the CRUD Code. This will recreate into your file.
+### This is the SQLAlchemy CRUD Code. This will recreate into your file.
 
 ```python
 class name(Resource):
